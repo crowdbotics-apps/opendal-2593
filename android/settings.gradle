@@ -1,0 +1,3 @@
+rootProject.name = 'opendal_2593'
+
+include ':app'
